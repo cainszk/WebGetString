@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WebGetString\WebGetString\bin\Debug\WebGetString.exe.config
+C:\Users\user\source\repos\WebGetString\WebGetString\bin\Debug\WebGetString.exe
+C:\Users\user\source\repos\WebGetString\WebGetString\bin\Debug\WebGetString.pdb
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.Form1.resources
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.Properties.Resources.resources
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.exe
+C:\Users\user\source\repos\WebGetString\WebGetString\obj\Debug\WebGetString.pdb
